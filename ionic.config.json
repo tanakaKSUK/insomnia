@@ -1,5 +1,7 @@
 {
   "name": "insomnia",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
